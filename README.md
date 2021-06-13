@@ -1,3 +1,7 @@
+Olá, este repositório contém a parte do front-end para o desafio solicitado pela Alest, de tecnologias escolhidas foram o React, associado ao Next.js e TypeScript, permitindo uma construção rápida com o potencial do React e uma melhor organização e facilidades com o Typescript. 
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
